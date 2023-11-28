@@ -21,7 +21,7 @@
 		<COL WIDTH=633>
 		<TR>
 			<TD WIDTH=633>
-				<P ALIGN=RIGHT><IMG SRC="%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%20%D0%94_html_m5d4d7ff4.png" ALIGN=BOTTOM WIDTH=57 HEIGHT=57 BORDER=0>
+				<P ALIGN=RIGHT><IMG SRC="https://i.hh.ru/logos/svg/hh.ru.svg" ALIGN=BOTTOM WIDTH=57 HEIGHT=57 BORDER=0>
 								</P>
 			</TD>
 		</TR>
