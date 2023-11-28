@@ -13,102 +13,143 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-Март 2014 — по настоящее время
-9 лет 9 месяцев
-Refertur
-Вебразработчик WordPress
-За 8 лет создано более 100 сайтов на CMS Wordpress.
-В приоритете почасовая оплата за услуги в зависиомости от задач. Работаю быстро.
-
-Разработка в среде Zerocode (No code), что значительно снижает сроки и стоимость, а также позволяет максимально быстро создавать работающие MVP для тестирования:
-
-- Агрегаторы, каталоги, листинги
-- Интернет магазины
-- AI автоперевод контента и метаданных на другие языки
-- Автопостинг контента в любые социальные сети и мессенджеры
-- Партнерские магазины, витрины, агрегаторы купонов и промокодов
-- Размещение товаров и услуг в социальных сетях, маркетплейсах
-- Поддержка и развитие существующих проектов
-
-SEO:
-
-- Сбор и кластеризация семантического ядра
-- Внутренняя оптимизация
-- Внутренняя и сквозная перелинковка
-- Написание метатегов title, description, headings, alt
-- Уникализация изображений, копирайтинг/рерайтинг текстов
-- Lazy load видео и изображений
-- Регистрация и настройка yandex webmaster, google search console, отправка страниц на переобход
-- Установка и настройка yandex metrika, google analytics
-- Создание xml, html карты сайта
-- Настройка robots.txt
-- Микроразметка Schema.org, Opengraph
-- PageSpeed и Core Web Vitals
-- Структурированные данные
-- Линкбилдинг
-- Оптимизация изображений
-- SEO оптимизация сайтов на CMS 1с Битрикс
-- Добавление мультиязычности
-- Статейное продвижение
-- Интеграция ChatGPT на любой сайт (поддомен или в папку) и в ботов телеграм - через API OpenAI (от $0.0004), API ChatGPT (от $0.0002) за 1000 токенов.
-- Создание GPT ботов с контекстными promts (подсказками)
-- Интеграция генератора изображений DALL-E, Stable Diffusion на сайты, боты в телеграм (от $0.016) за 1 генерацию.
-- Нейрокопирайтинг GPT, создание грамотных promts (подсказки) для автоматического написания уникального контента с выгрузкой на сайты, маркетплейсы, соц. сети и тд. Форматы экспорта: ссылки или статические файлы: RSS, XML, YML, CSV и т.д.
-
-Массовая загрузка любого контента в Wordpress или любую CMS - текстов, товаров, услуг, недвижимость, автомобили и т.д. в том числе уникальные, автоматически генерируемые тексты нейросетью OpenAI GPT-3 с последующей вычиткой и редактированием.
-
-Выгрузки в:
-
-- Маркетплейсы: (Wildberris, Ozon, Яндекс.Маркет, Сбермегамаркет, Aliexpress, Amazon, eBay, Etsy, Alibaba, Rakuten и т.д.)
-- Яндекс.Бизнес: товары/услуги
-- Яндекс: Турбо-страницы, товары
-- Яндекс Вебмастер: товары
-- Google Merchant Center: товары
-- Facebook Commerce manager: товары
-- Instagram shopping: товары
-- Телеграм: бот-каталог услуг и товаров, магазин
-- Вконтакте: товары/услуги
-- Одноклассники: товары/услуги
-- Юла: товары/услуги
-- Авито: товары/услуги
-- Viber: товары/услуги
-- Агрегаторы: товары/услуги (Pulscen, Price.ru, Blizko, Cataloxy.ru, и тд)
-- Размещение товаров на бирже импортозамещения etpgpb.ru b и других
-- Интернет магазины, конструкторы сайтов (OpenCart, PrestaShop, Shopify, Webasyst, Tilda, Wix, Insales, Advantshop, и т.д.)
-- 2Gis: товары/услуги
-
-Скрапинг, парсинг: товаров, категорий, таблиц, листингов, прайс листов, каталогов. Конвертация из/в Excel, CSV, XML, YML, JSON
-
-Выгрузка товаров с сайтов поставщиков (маркетплейсы,интернет магазины, опт, мелкий опт, дропшиппинг, совместные покупки и т.д.)
-
-Выгрузки постов из социальных сетей.
-
-Экспорт товаров в PDF, формирование каталогов, прайс листов для печати и оффлайн чтения с активными ссылками.
-
-
-
-Безопасность:
-
-- Настройка firewall
-- Защита от подбора пароля и DDoS
-- Защита от вирусов и контроль изменения ядра
-- Резервное копирование и восстановление сайта
-
-Настройка рекламы:
-
-- Контекстная реклама (Yandex, Mail, Google, Bing)
-- Реклама в социальных и сетях
-- E-mail рассылки
-- SMS рассылки
-- Таргетинг
-- Ретаргетинг
-- Медийная реклама
-- Продвижение и рассылки в мессенджерах
-- Чат боты
-- Автопостинг по расписанию новостей, товаров в социальные сети (Более 20)
-- Партнерские программы, размещение офферов в партнерских сетях.
-- Арбитраж трафика
-
-В данный момент являюсь самозанятым.
-
-Прошу по всем вопросам писать в Telegram: @notview
+<div>
+    <table cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+        <tbody>
+            <tr>
+                <td colspan="4" style="width:481.9pt; vertical-align:top;">
+                    <p style="margin-top:0pt; margin-bottom:0pt; widows:0; orphans:0; font-size:25pt;"><strong><span style="font-family:Arial;">Леонид Д&nbsp;</span></strong></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">Мужчина</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">&nbsp;</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">+7</span><span style="font-family:Arial; font-size:9pt;">&nbsp;</span><span style="font-family:Arial; font-size:9pt;">(950)</span><span style="font-family:Arial; font-size:9pt;">&nbsp;</span><span style="font-family:Arial; font-size:9pt;">8333412&nbsp;</span><span style="font-family:Arial; font-size:9pt; color:#aeaeae;">&mdash; Viber, WhatsApp</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><a href="mailto:refertur@yandex.ru" style="text-decoration:none;"><u><span style="font-family:Arial; font-size:9pt; color:#000000;">refertur@yandex.ru</span></u></a><span style="font-family:Arial; font-size:9pt;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; color:#aeaeae;">&mdash; предпочитаемый способ связи</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">Skype: homgorn</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">Другой сайт: https://t.me/notview</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">&nbsp;</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">Проживает: Москва</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">Гражданство: Россия, есть разрешение на работу: Россия, Казахстан, Кыргызстан</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">Готов к переезду: Испания, Казахстан, Бишкек, Аргентина, Кипр, Таиланд, Акташ</span><span style="font-family:Arial; font-size:9pt;">&nbsp;</span><span style="font-family:Arial; font-size:9pt;">(Узбекистан), Армения, Шри-Ланка, ОАЭ, Россия, Индия, Португалия, Сербия, Греция, Мексика, Черногория, Монголия, Уругвай, Грузия, Индонезия, Турция, готов к командировкам</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" style="width:481.9pt; vertical-align:top;">
+                    <p style="margin-top:25pt; margin-bottom:7.5pt; widows:0; orphans:0; border-bottom:0.75pt solid #d8d8d8; font-size:11pt;"><span style="font-family:Arial; color:#aeaeae;">Желаемая должность и зарплата</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" style="width:343.05pt; vertical-align:top;">
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><strong><span style="font-family:Arial; font-size:12pt;">Web-разработчик WordPress, Webmaster, Developer ChatGPT, SEO специалист</span></strong></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">Специализации:</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span></p>
+                    <p style="margin-top:0pt; margin-left:15pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">&mdash;</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt;">Менеджер по продажам, менеджер по работе с клиентами</span></p>
+                    <p style="margin-top:0pt; margin-left:15pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">&mdash;</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt;">SMM-менеджер, контент-менеджер</span></p>
+                    <p style="margin-top:0pt; margin-left:15pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">&mdash;</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt;">Менеджер по маркетингу, интернет-маркетолог</span></p>
+                    <p style="margin-top:0pt; margin-left:15pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">&mdash;</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt;">Копирайтер, редактор, корректор</span></p>
+                    <p style="margin-top:0pt; margin-left:15pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">&mdash;</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt;">Программист, разработчик</span></p>
+                    <p style="margin-top:0pt; margin-left:15pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">&nbsp;</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">Занятость: частичная занятость, проектная работа, стажировка</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">График работы: сменный график, гибкий график, удаленная работа, вахтовый метод</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><br><span style="font-family:Arial; font-size:9pt;">Желательное время в пути до работы: не имеет значения</span></p>
+                </td>
+                <td style="width:138.85pt; vertical-align:middle;">
+                    <p style="margin-top:0pt; margin-bottom:0pt; text-align:right; widows:0; orphans:0; font-size:16pt;"><strong><span style="font-family:Arial;">10</span></strong><br><span style="font-family:Arial; font-size:9pt;">$</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; text-align:right; widows:0; orphans:0; font-size:12pt;"><span style="font-family:Arial;">&nbsp;</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" style="width:481.9pt; vertical-align:top;">
+                    <p style="margin-top:25pt; margin-bottom:7.5pt; widows:0; orphans:0; border-bottom:0.75pt solid #d8d8d8; font-size:11pt;"><span style="font-family:Arial; color:#aeaeae;">Опыт работы &mdash;9 лет 9 месяцев</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width:70pt; vertical-align:top;">
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:11pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:8pt; color:#707070;">Март 2014 &mdash; настоящее время</span><br><span style="font-family:Arial; font-size:8pt; color:#707070;">9 лет 9 месяцев</span></p>
+                </td>
+                <td style="width:20pt; vertical-align:top;">
+                    <p style="margin-top:0pt; margin-bottom:0pt; widows:0; orphans:0; font-size:12pt;"><span style="font-family:Arial;">&nbsp;</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; widows:0; orphans:0; font-size:12pt;"><span style="font-family:Arial;">&nbsp;</span></p>
+                </td>
+                <td colspan="2" style="width:391.9pt; vertical-align:top;">
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:14pt; widows:0; orphans:0;"><strong><span style="font-family:Arial; font-size:12pt;">Refertur</span></strong></p>
+                    <p style="margin-top:0pt; margin-bottom:3pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:12pt;">&nbsp;</span></p>
+                    <p style="margin-top:3pt; margin-bottom:3pt; line-height:14pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:12pt;">Вебразработчик WordPress</span></p>
+                    <p style="margin-top:3pt; margin-bottom:3pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">За 8 лет создано более 100 сайтов на CMS Wordpress.</span><br><span style="font-family:Arial; font-size:9pt;">В приоритете почасовая оплата за услуги в зависиомости от задач. Работаю быстро.</span><br><br><span style="font-family:Arial; font-size:9pt;">Разработка в среде Zerocode (No code), что значительно снижает сроки и стоимость, а также позволяет максимально быстро создавать работающие MVP для тестирования:</span><br><br><span style="font-family:Arial; font-size:9pt;">- Агрегаторы, каталоги, листинги</span><br><span style="font-family:Arial; font-size:9pt;">- Интернет магазины</span><br><span style="font-family:Arial; font-size:9pt;">- AI автоперевод контента и метаданных на другие языки</span><br><span style="font-family:Arial; font-size:9pt;">- Автопостинг контента в любые социальные сети и мессенджеры</span><br><span style="font-family:Arial; font-size:9pt;">- Партнерские магазины, витрины, агрегаторы купонов и промокодов</span><br><span style="font-family:Arial; font-size:9pt;">- Размещение товаров и услуг в социальных сетях, маркетплейсах</span><br><span style="font-family:Arial; font-size:9pt;">- Поддержка и развитие существующих проектов</span><br><br><span style="font-family:Arial; font-size:9pt;">SEO:</span><br><br><span style="font-family:Arial; font-size:9pt;">- Сбор и кластеризация семантического ядра</span><br><span style="font-family:Arial; font-size:9pt;">- Внутренняя оптимизация&nbsp;</span><br><span style="font-family:Arial; font-size:9pt;">- Внутренняя и сквозная перелинковка</span><br><span style="font-family:Arial; font-size:9pt;">- Написание метатегов title, description, headings, alt</span><br><span style="font-family:Arial; font-size:9pt;">- Уникализация изображений, копирайтинг/рерайтинг текстов</span><br><span style="font-family:Arial; font-size:9pt;">- Lazy load видео и изображений</span><br><span style="font-family:Arial; font-size:9pt;">- Регистрация и настройка yandex webmaster, google search console, отправка страниц на переобход</span><br><span style="font-family:Arial; font-size:9pt;">- Установка и настройка yandex metrika, google analytics</span><br><span style="font-family:Arial; font-size:9pt;">- Создание xml, html карты сайта</span><br><span style="font-family:Arial; font-size:9pt;">- Настройка robots.txt</span><br><span style="font-family:Arial; font-size:9pt;">- Микроразметка Schema.org, Opengraph</span><br><span style="font-family:Arial; font-size:9pt;">- PageSpeed и Core Web Vitals</span><br><span style="font-family:Arial; font-size:9pt;">- Структурированные данные</span><br><span style="font-family:Arial; font-size:9pt;">- Линкбилдинг</span><br><span style="font-family:Arial; font-size:9pt;">- Оптимизация изображений</span><br><span style="font-family:Arial; font-size:9pt;">- SEO оптимизация сайтов на CMS 1с Битрикс</span><br><span style="font-family:Arial; font-size:9pt;">- Добавление мультиязычности&nbsp;</span><br><span style="font-family:Arial; font-size:9pt;">- Статейное продвижение</span><br><span style="font-family:Arial; font-size:9pt;">- Интеграция ChatGPT на любой сайт (поддомен или в папку) и в ботов телеграм - через API OpenAI (от $0.0004), API ChatGPT (от $0.0002) за 1000 токенов.</span><br><span style="font-family:Arial; font-size:9pt;">- Создание GPT ботов с контекстными promts (подсказками)</span><br><span style="font-family:Arial; font-size:9pt;">- Интеграция генератора изображений DALL-E, Stable Diffusion на сайты, боты в телеграм (от $0.016) за 1 генерацию.</span><br><span style="font-family:Arial; font-size:9pt;">- Нейрокопирайтинг GPT, создание грамотных promts (подсказки) для автоматического написания уникального контента с выгрузкой на сайты, маркетплейсы, соц. сети и тд. Форматы экспорта: ссылки или статические файлы: RSS, XML, YML, CSV и т.д.&nbsp;</span><br><br><span style="font-family:Arial; font-size:9pt;">Массовая загрузка любого контента в Wordpress или любую CMS - текстов, товаров, услуг, недвижимость, автомобили</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt;">и т.д. в том числе уникальные, автоматически генерируемые тексты нейросетью OpenAI GPT-3 с последующей вычиткой и редактированием.&nbsp;</span><br><br><span style="font-family:Arial; font-size:9pt;">Выгрузки в:</span><br><br><span style="font-family:Arial; font-size:9pt;">- Маркетплейсы: (Wildberris, Ozon, Яндекс.Маркет,</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt;">Сбермегамаркет, Aliexpress, Amazon, eBay, Etsy, Alibaba, Rakuten и т.д.)</span><br><span style="font-family:Arial; font-size:9pt;">- Яндекс.Бизнес: товары/услуги</span><br><span style="font-family:Arial; font-size:9pt;">- Яндекс: Турбо-страницы, товары</span><br><span style="font-family:Arial; font-size:9pt;">- Яндекс Вебмастер: товары</span><br><span style="font-family:Arial; font-size:9pt;">- Google Merchant Center: товары</span><br><span style="font-family:Arial; font-size:9pt;">- Facebook Commerce manager: товары</span><br><span style="font-family:Arial; font-size:9pt;">- Instagram shopping: товары</span><br><span style="font-family:Arial; font-size:9pt;">- Телеграм: бот-каталог услуг и товаров, магазин</span><br><span style="font-family:Arial; font-size:9pt;">- Вконтакте: товары/услуги</span><br><span style="font-family:Arial; font-size:9pt;">- Одноклассники: товары/услуги</span><br><span style="font-family:Arial; font-size:9pt;">- Юла: товары/услуги</span><br><span style="font-family:Arial; font-size:9pt;">- Авито: товары/услуги</span><br><span style="font-family:Arial; font-size:9pt;">- Viber: товары/услуги</span><br><span style="font-family:Arial; font-size:9pt;">- Агрегаторы: товары/услуги (Pulscen, Price.ru, Blizko,</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt;">Cataloxy.ru, и тд)</span><br><span style="font-family:Arial; font-size:9pt;">- Размещение товаров на бирже импортозамещения etpgpb.ru b и других</span><br><span style="font-family:Arial; font-size:9pt;">- Интернет магазины, конструкторы сайтов (OpenCart, PrestaShop, Shopify, Webasyst, Tilda, Wix, Insales, Advantshop,</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt;">и т.д.)</span><br><span style="font-family:Arial; font-size:9pt;">- 2Gis: товары/услуги</span><br><br><span style="font-family:Arial; font-size:9pt;">Скрапинг, парсинг: товаров, категорий, таблиц, листингов, прайс листов, каталогов. Конвертация из/в Excel, CSV, XML, YML, JSON</span><br><br><span style="font-family:Arial; font-size:9pt;">Выгрузка товаров с сайтов поставщиков (маркетплейсы,интернет магазины, опт, мелкий опт, дропшиппинг, совместные покупки и т.д.)</span><br><br><span style="font-family:Arial; font-size:9pt;">Выгрузки постов из социальных сетей.&nbsp;</span><br><br><span style="font-family:Arial; font-size:9pt;">Экспорт товаров в PDF, формирование каталогов, прайс листов для печати и оффлайн чтения с активными ссылками.</span><br><br><br><br><span style="font-family:Arial; font-size:9pt;">Безопасность:</span><br><br><span style="font-family:Arial; font-size:9pt;">- Настройка firewall</span><br><span style="font-family:Arial; font-size:9pt;">- Защита от подбора пароля и DDoS</span><br><span style="font-family:Arial; font-size:9pt;">- Защита от вирусов и контроль изменения ядра</span><br><span style="font-family:Arial; font-size:9pt;">- Резервное копирование и восстановление сайта</span><br><br><span style="font-family:Arial; font-size:9pt;">Настройка рекламы:&nbsp;</span><br><br><span style="font-family:Arial; font-size:9pt;">- Контекстная реклама (Yandex, Mail, Google, Bing)</span><br><span style="font-family:Arial; font-size:9pt;">- Реклама в социальных и сетях</span><br><span style="font-family:Arial; font-size:9pt;">- E-mail рассылки</span><br><span style="font-family:Arial; font-size:9pt;">- SMS рассылки</span><br><span style="font-family:Arial; font-size:9pt;">- Таргетинг</span><br><span style="font-family:Arial; font-size:9pt;">- Ретаргетинг</span><br><span style="font-family:Arial; font-size:9pt;">- Медийная реклама</span><br><span style="font-family:Arial; font-size:9pt;">- Продвижение и рассылки в мессенджерах</span><br><span style="font-family:Arial; font-size:9pt;">- Чат боты</span><br><span style="font-family:Arial; font-size:9pt;">- Автопостинг по расписанию новостей, товаров в социальные сети (Более 20)</span><br><span style="font-family:Arial; font-size:9pt;">- Партнерские программы, размещение офферов в партнерских сетях.&nbsp;</span><br><span style="font-family:Arial; font-size:9pt;">- Арбитраж трафика</span><br><br><span style="font-family:Arial; font-size:9pt;">В данный момент являюсь самозанятым.&nbsp;</span><br><br><span style="font-family:Arial; font-size:9pt;">Прошу по всем вопросам писать в Telegram: @notview</span><br><span style="font-family:Arial; font-size:12pt;">&nbsp;</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" style="width:481.9pt; vertical-align:top;">
+                    <p style="margin-top:25pt; margin-bottom:7.5pt; widows:0; orphans:0; border-bottom:0.75pt solid #d8d8d8; font-size:11pt;"><span style="font-family:Arial; color:#aeaeae;">Образование</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" style="width:481.9pt; vertical-align:top;">
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:11pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:11pt;">Неоконченное высшее</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="width:90pt; vertical-align:top;">
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:11pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:8pt; color:#707070;">2030</span></p>
+                </td>
+                <td colspan="2" style="width:391.9pt; vertical-align:top;">
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:14pt; widows:0; orphans:0;"><strong><span style="font-family:Arial; font-size:12pt;">Самоподготовка</span></strong></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:12pt;">&nbsp;</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" style="width:481.9pt; vertical-align:top;">
+                    <p style="margin-top:25pt; margin-bottom:7.5pt; widows:0; orphans:0; border-bottom:0.75pt solid #d8d8d8; font-size:11pt;"><span style="font-family:Arial; color:#aeaeae;">Ключевые навыки</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="width:90pt; vertical-align:top;">
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:11pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:8pt; color:#707070;">Знание языков</span></p>
+                </td>
+                <td colspan="2" style="width:391.9pt; vertical-align:top;">
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">Русский&nbsp;</span><span style="font-family:Arial; font-size:9pt; color:#aeaeae;">&mdash; Родной</span></p>
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">Английский&nbsp;</span><span style="font-family:Arial; font-size:9pt; color:#aeaeae;">&mdash; B1 &mdash; Средний</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="width:90pt; vertical-align:top;">
+                    <p style="margin-top:12.5pt; margin-bottom:0pt; line-height:11pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:8pt; color:#707070;">Навыки</span></p>
+                </td>
+                <td colspan="2" style="width:391.9pt; vertical-align:top;">
+                    <p style="margin-top:12.5pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Ответственность</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Целеустремленность</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Ориентация</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">на</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">результат</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Adobe</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Photoshop</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Обучение</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">и</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">развитие</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">CorelDRAW</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Деловое</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">общение</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Работа</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">с</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">большим</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">объемом</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">информации</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Управление</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">проектами</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Деловая</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">коммуникация</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Умение</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">работать</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">в</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">команде</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Заключение</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">договоров</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Навыки</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">продаж</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Грамотность</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Организаторские</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">навыки</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Деловая</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">переписка</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Обучение</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">персонала</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Cоциальная</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">реклама</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Интернет-реклама</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Контекстная</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">реклама</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Партнерские</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">программы</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">в</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">социальных</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">сетях</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Партнерский</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">маркетинг</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">B2B</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">маркетинг</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Internet</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Marketing</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">CorelDRAW</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Graphics</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Suite</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Поиск</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">и</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">привлечение</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">клиентов</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">CMS</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Wordpress</span><span style="font-family:Arial; font-size:9pt;">&nbsp;&nbsp;</span><span style="font-family:Arial; font-size:9pt; background-color:#e6e6e6;">Woocommerce</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" style="width:481.9pt; vertical-align:top;">
+                    <p style="margin-top:25pt; margin-bottom:7.5pt; widows:0; orphans:0; border-bottom:0.75pt solid #d8d8d8; font-size:11pt;"><span style="font-family:Arial; color:#aeaeae;">Опыт вождения</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" style="width:481.9pt; vertical-align:top;">
+                    <p style="margin-top:0pt; margin-bottom:5pt; line-height:14pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">Права категории A, B</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" style="width:481.9pt; vertical-align:top;">
+                    <p style="margin-top:25pt; margin-bottom:7.5pt; widows:0; orphans:0; border-bottom:0.75pt solid #d8d8d8; font-size:11pt;"><span style="font-family:Arial; color:#aeaeae;">Дополнительная информация</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="width:90pt; vertical-align:top;">
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:11pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:8pt; color:#707070;">Обо мне</span></p>
+                </td>
+                <td colspan="2" style="width:391.9pt; vertical-align:top;">
+                    <p style="margin-top:0pt; margin-bottom:0pt; line-height:13pt; widows:0; orphans:0;"><span style="font-family:Arial; font-size:9pt;">Портфолио:</span><br><span style="font-family:Arial; font-size:9pt;">https://successturan.com Personal Travel Blog</span><br><span style="font-family:Arial; font-size:9pt;">https://nomad-stan.com Capsule Hostel Website</span><br><span style="font-family:Arial; font-size:9pt;">https://solo-express.ru - Интернет магазин посуды</span><br><span style="font-family:Arial; font-size:9pt;">https://цифра18.рф - Интернет магазин (каталог) типографии</span><br><span style="font-family:Arial; font-size:9pt;">https://ppsiz.ru Портал по обзорам старых и новых мест города Ижевск</span><br><span style="font-family:Arial; font-size:9pt;">https://tourexpert.club - Сайт турагентства</span><br><span style="font-family:Arial; font-size:9pt;">https://sol18.ru - Сайт Туроператора</span><br><span style="font-family:Arial; font-size:9pt;">https://yourguitar.ru - Интернет магазин производителя гитар</span><br><span style="font-family:Arial; font-size:9pt;">https://сухо-фрукт.рф - Сайт-визитка и интернет магазин сухофруктов</span><br><span style="font-family:Arial; font-size:9pt;">https://musor18.ru - Сайт-визитка услуг вывоза мусора</span><br><span style="font-family:Arial; font-size:9pt;">https://переезд18.рф - Сайт-визитка услуг грузоперевозок</span><br><span style="font-family:Arial; font-size:9pt;">https://психолог-сентякова.рф - Сайт-визитка и интернет магазин услуг</span><br><span style="font-family:Arial; font-size:9pt;">https://travel.r00m.ru - Поисковик авиабилетов и отелей (Партнерский CPA White label TPO)</span><br><span style="font-family:Arial; font-size:9pt;">https://domain.r00m.ru - Каталог (магазин) доменов</span><br><br><span style="font-family:Arial; font-size:9pt;">И так далее.</span></p>
+                </td>
+            </tr>
+            <tr style="height:0pt;">
+                <td style="width:70pt;"><br></td>
+                <td style="width:20pt;"><br></td>
+                <td style="width:253.05pt;"><br></td>
+                <td style="width:138.85pt;"><br></td>
+            </tr>
+        </tbody>
+    </table>
+    <p style="margin-top:0pt; margin-bottom:0pt;">&nbsp;</p>
+    <div style="clear:both;">
+        <p style="margin-top:0pt; margin-bottom:0pt; widows:0; orphans:0; font-size:8pt;"><span style="font-family:Arial; color:#bcbcbc;">Леонид Д</span><span style="font-family:Arial; color:#bcbcbc;">&nbsp;&nbsp;</span><span style="font-family:Arial; color:#bcbcbc;">&bull;</span><span style="font-family:Arial; color:#bcbcbc;">&nbsp;&nbsp;</span><span style="font-family:Arial; color:#bcbcbc;">Резюме обновлено 22 ноября 2023 в 15:57</span></p>
+    </div>
+</div>
+<p style="bottom: 10px; right: 10px; position: absolute;"><a href="https://wordtohtml.net" target="_blank" style="font-size:11px; color: #d0d0d0;">Converted to HTML with WordToHTML.net</a></p>
