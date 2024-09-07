@@ -1,330 +1,163 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1251">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.13  (Win32)">
-	<META NAME="CREATED" CONTENT="0;0">
-	<META NAME="CHANGED" CONTENT="0;0">
-	<STYLE TYPE="text/css">
-	<!--
-		@page { size: 21cm 29.7cm; margin-left: 2cm; margin-right: 2cm; margin-top: 2cm; margin-bottom: 1.27cm }
-		@page:first { margin-top: 1.27cm; margin-bottom: 1.27cm }
-		P { margin-bottom: 0.21cm }
-		A:link { color: #000080; so-language: zxx; text-decoration: underline }
-	-->
-	</STYLE>
-</HEAD>
-<BODY LANG="ru-RU" LINK="#000080" VLINK="#800000" DIR="LTR" STYLE="border: none; padding: 0cm">
-<DIV TYPE=HEADER>
-	<TABLE WIDTH=637 BORDER=1 BORDERCOLOR="#aeaeae" CELLPADDING=2 CELLSPACING=0 FRAME=BELOW>
-		<COL WIDTH=633>
-		<TR>
-			<TD WIDTH=633>
-				<P ALIGN=RIGHT><IMG SRC="https://i.hh.ru/logos/svg/hh.ru.svg" ALIGN=BOTTOM WIDTH=57 HEIGHT=57 BORDER=0>
-								</P>
-			</TD>
-		</TR>
-	</TABLE>
-</DIV>
-<TABLE WIDTH=643 BORDER=0 CELLPADDING=2 CELLSPACING=0 STYLE="page-break-before: always">
-	<COL WIDTH=89>
-	<COL WIDTH=23>
-	<COL WIDTH=333>
-	<COL WIDTH=181>
-	<TR>
-		<TD COLSPAN=4 WIDTH=639 VALIGN=TOP>
-			<P STYLE="margin-bottom: 0cm"><FONT SIZE=6 STYLE="font-size: 25pt"><B>Леонид
-			Д </B></FONT>
-			</P>
-			<P STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 9pt">Мужчина</FONT></P>
-			<P STYLE="margin-bottom: 0cm"><BR>
-			</P>
-			<P STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 9pt">+7&nbsp;(950)&nbsp;8333412
-			<FONT COLOR="#aeaeae">&mdash; Viber, WhatsApp</FONT></FONT></P>
-			<P STYLE="margin-bottom: 0cm"><A HREF="mailto:refertur@yandex.ru"><FONT SIZE=2 STYLE="font-size: 9pt"><U>refertur@yandex.ru</U></FONT></A><FONT SIZE=2 STYLE="font-size: 9pt">
-			</FONT><FONT COLOR="#aeaeae"><FONT SIZE=2 STYLE="font-size: 9pt">&mdash;
-			предпочитаемый способ связи</FONT></FONT></P>
-			<P STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 9pt">Skype:
-			homgorn</FONT></P>
-			<P STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 9pt">Другой
-			сайт: https://t.me/notview</FONT></P>
-			<P STYLE="margin-bottom: 0cm"><BR>
-			</P>
-			<P STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 9pt">Проживает:
-			Москва</FONT></P>
-			<P STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 9pt">Гражданство:
-			Россия, есть разрешение на работу: Россия, Казахстан, Кыргызстан</FONT></P>
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">Готов к переезду: Испания,
-			Казахстан, Бишкек, Аргентина, Кипр, Таиланд, Акташ&nbsp;(Узбекистан),
-			Армения, Шри-Ланка, ОАЭ, Россия, Индия, Португалия, Сербия,
-			Греция, Мексика, Черногория, Монголия, Уругвай, Грузия, Индонезия,
-			Турция, готов к командировкам</FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD COLSPAN=4 WIDTH=639 VALIGN=TOP>
-			<P STYLE="margin-top: 0.88cm; border-top: none; border-bottom: 1px solid #d8d8d8; border-left: none; border-right: none; padding: 0cm">
-			<FONT COLOR="#aeaeae"><FONT SIZE=2 STYLE="font-size: 11pt">Желаемая
-			должность и зарплата</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD COLSPAN=3 WIDTH=453 VALIGN=TOP>
-			<P STYLE="margin-bottom: 0.18cm"><FONT SIZE=3><B>Web-разработчик
-			WordPress, Webmaster, Developer ChatGPT, SEO специалист</B></FONT></P>
-			<P STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 9pt">Специализации:
-			 </FONT>
-			</P>
-			<P STYLE="margin-left: 0.53cm; margin-bottom: 0cm">&mdash; 
-			<FONT SIZE=2 STYLE="font-size: 9pt">Менеджер по продажам, менеджер
-			по работе с клиентами</FONT></P>
-			<P STYLE="margin-left: 0.53cm; margin-bottom: 0cm">&mdash; 
-			<FONT SIZE=2 STYLE="font-size: 9pt">SMM-менеджер, контент-менеджер</FONT></P>
-			<P STYLE="margin-left: 0.53cm; margin-bottom: 0cm">&mdash; 
-			<FONT SIZE=2 STYLE="font-size: 9pt">Менеджер по маркетингу,
-			интернет-маркетолог</FONT></P>
-			<P STYLE="margin-left: 0.53cm; margin-bottom: 0cm">&mdash; 
-			<FONT SIZE=2 STYLE="font-size: 9pt">Копирайтер, редактор,
-			корректор</FONT></P>
-			<P STYLE="margin-left: 0.53cm; margin-bottom: 0cm">&mdash; 
-			<FONT SIZE=2 STYLE="font-size: 9pt">Программист, разработчик</FONT></P>
-			<P STYLE="margin-left: 0.53cm; margin-bottom: 0cm"><BR>
-			</P>
-			<P STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 9pt">Занятость:
-			частичная занятость, проектная работа, стажировка</FONT></P>
-			<P STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 9pt">График
-			работы: сменный график, гибкий график, удаленная работа, вахтовый
-			метод</FONT></P>
-			<P><FONT SIZE=2 STYLE="font-size: 9pt"><BR>Желательное время в
-			пути до работы: не имеет значения</FONT></P>
-		</TD>
-		<TD WIDTH=181>
-			<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><FONT SIZE=4 STYLE="font-size: 16pt"><B>10</B></FONT><BR><FONT SIZE=2 STYLE="font-size: 9pt">$</FONT></P>
-			<P ALIGN=RIGHT><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR>
-		<TD COLSPAN=4 WIDTH=639 VALIGN=TOP>
-			<P STYLE="margin-top: 0.88cm; border-top: none; border-bottom: 1px solid #d8d8d8; border-left: none; border-right: none; padding: 0cm">
-			<FONT COLOR="#aeaeae"><FONT SIZE=2 STYLE="font-size: 11pt">Опыт
-			работы &mdash;9 лет 9 месяцев</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=89>
-			<P><FONT COLOR="#707070"><FONT SIZE=1 STYLE="font-size: 8pt">Март
-			2014 &mdash; настоящее время<BR>9 лет 9 месяцев</FONT></FONT></P>
-		</TD>
-		<TD WIDTH=23>
-			<P STYLE="margin-bottom: 0cm"><BR>
-			</P>
-			<P><BR>
-			</P>
-		</TD>
-		<TD COLSPAN=2 WIDTH=519>
-			<P STYLE="margin-bottom: 0cm"><FONT SIZE=3><B>Refertur</B></FONT></P>
-			<P STYLE="margin-bottom: 0cm"><BR>
-			</P>
-			<P STYLE="margin-top: 0.11cm; margin-bottom: 0.11cm"><FONT SIZE=3>Вебразработчик
-			WordPress</FONT></P>
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">За 8 лет создано более 100
-			сайтов на CMS Wordpress.<BR>В приоритете почасовая оплата за
-			услуги в зависиомости от задач. Работаю быстро.<BR><BR>Разработка
-			в среде Zerocode (No code), что значительно снижает сроки и
-			стоимость, а также позволяет максимально быстро создавать
-			работающие MVP для тестирования:<BR><BR>- Агрегаторы, каталоги,
-			листинги<BR>- Интернет магазины<BR>- AI автоперевод контента и
-			метаданных на другие языки<BR>- Автопостинг контента в любые
-			социальные сети и мессенджеры<BR>- Партнерские магазины, витрины,
-			агрегаторы купонов и промокодов<BR>- Размещение товаров и услуг в
-			социальных сетях, маркетплейсах<BR>- Поддержка и развитие
-			существующих проектов<BR><BR>SEO:<BR><BR>- Сбор и кластеризация
-			семантического ядра<BR>- Внутренняя оптимизация <BR>- Внутренняя и
-			сквозная перелинковка<BR>- Написание метатегов title, description,
-			headings, alt<BR>- Уникализация изображений, копирайтинг/рерайтинг
-			текстов<BR>- Lazy load видео и изображений<BR>- Регистрация и
-			настройка yandex webmaster, google search console, отправка
-			страниц на переобход<BR>- Установка и настройка yandex metrika,
-			google analytics<BR>- Создание xml, html карты сайта<BR>-
-			Настройка robots.txt<BR>- Микроразметка Schema.org, Opengraph<BR>-
-			PageSpeed и Core Web Vitals<BR>- Структурированные данные<BR>-
-			Линкбилдинг<BR>- Оптимизация изображений<BR>- SEO оптимизация
-			сайтов на CMS 1с Битрикс<BR>- Добавление мультиязычности <BR>-
-			Статейное продвижение<BR>- Интеграция ChatGPT на любой сайт
-			(поддомен или в папку) и в ботов телеграм - через API OpenAI (от
-			$0.0004), API ChatGPT (от $0.0002) за 1000 токенов.<BR>- Создание
-			GPT ботов с контекстными promts (подсказками)<BR>- Интеграция
-			генератора изображений DALL-E, Stable Diffusion на сайты, боты в
-			телеграм (от $0.016) за 1 генерацию.<BR>- Нейрокопирайтинг GPT,
-			создание грамотных promts (подсказки) для автоматического
-			написания уникального контента с выгрузкой на сайты, маркетплейсы,
-			соц. сети и тд. Форматы экспорта: ссылки или статические файлы:
-			RSS, XML, YML, CSV и т.д. <BR><BR>Массовая загрузка любого
-			контента в Wordpress или любую CMS - текстов, товаров, услуг,
-			недвижимость, автомобили  и т.д. в том числе уникальные,
-			автоматически генерируемые тексты нейросетью OpenAI GPT-3 с
-			последующей вычиткой и редактированием. <BR><BR>Выгрузки в:<BR><BR>-
-			Маркетплейсы: (Wildberris, Ozon, Яндекс.Маркет,  Сбермегамаркет,
-			Aliexpress, Amazon, eBay, Etsy, Alibaba, Rakuten и т.д.)<BR>-
-			Яндекс.Бизнес: товары/услуги<BR>- Яндекс: Турбо-страницы, товары<BR>-
-			Яндекс Вебмастер: товары<BR>- Google Merchant Center: товары<BR>-
-			Facebook Commerce manager: товары<BR>- Instagram shopping:
-			товары<BR>- Телеграм: бот-каталог услуг и товаров, магазин<BR>-
-			Вконтакте: товары/услуги<BR>- Одноклассники: товары/услуги<BR>-
-			Юла: товары/услуги<BR>- Авито: товары/услуги<BR>- Viber:
-			товары/услуги<BR>- Агрегаторы: товары/услуги (Pulscen, Price.ru,
-			Blizko,  Cataloxy.ru, и тд)<BR>- Размещение товаров на бирже
-			импортозамещения etpgpb.ru b и других<BR>- Интернет магазины,
-			конструкторы сайтов (OpenCart, PrestaShop, Shopify, Webasyst,
-			Tilda, Wix, Insales, Advantshop,  и т.д.)<BR>- 2Gis:
-			товары/услуги<BR><BR>Скрапинг, парсинг: товаров, категорий,
-			таблиц, листингов, прайс листов, каталогов. Конвертация из/в
-			Excel, CSV, XML, YML, JSON<BR><BR>Выгрузка товаров с сайтов
-			поставщиков (маркетплейсы,интернет магазины, опт, мелкий опт,
-			дропшиппинг, совместные покупки и т.д.)<BR><BR>Выгрузки постов из
-			социальных сетей. <BR><BR>Экспорт товаров в PDF, формирование
-			каталогов, прайс листов для печати и оффлайн чтения с активными
-			ссылками.<BR><BR><BR><BR>Безопасность:<BR><BR>- Настройка
-			firewall<BR>- Защита от подбора пароля и DDoS<BR>- Защита от
-			вирусов и контроль изменения ядра<BR>- Резервное копирование и
-			восстановление сайта<BR><BR>Настройка рекламы: <BR><BR>-
-			Контекстная реклама (Yandex, Mail, Google, Bing)<BR>- Реклама в
-			социальных и сетях<BR>- E-mail рассылки<BR>- SMS рассылки<BR>-
-			Таргетинг<BR>- Ретаргетинг<BR>- Медийная реклама<BR>- Продвижение
-			и рассылки в мессенджерах<BR>- Чат боты<BR>- Автопостинг по
-			расписанию новостей, товаров в социальные сети (Более 20)<BR>-
-			Партнерские программы, размещение офферов в партнерских сетях. <BR>-
-			Арбитраж трафика<BR><BR>В данный момент являюсь самозанятым.
-			<BR><BR>Прошу по всем вопросам писать в Telegram: @notview<BR></FONT><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR>
-		<TD COLSPAN=4 WIDTH=639 VALIGN=TOP>
-			<P STYLE="margin-top: 0.88cm; border-top: none; border-bottom: 1px solid #d8d8d8; border-left: none; border-right: none; padding: 0cm">
-			<FONT COLOR="#aeaeae"><FONT SIZE=2 STYLE="font-size: 11pt">Образование</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD COLSPAN=4 WIDTH=639 VALIGN=TOP>
-			<P><FONT SIZE=2 STYLE="font-size: 11pt">Неоконченное высшее</FONT></P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD COLSPAN=2 WIDTH=116>
-			<P><FONT COLOR="#707070"><FONT SIZE=1 STYLE="font-size: 8pt">2030</FONT></FONT></P>
-		</TD>
-		<TD COLSPAN=2 WIDTH=519>
-			<P STYLE="margin-bottom: 0cm"><FONT SIZE=3><B>Самоподготовка</B></FONT></P>
-			<P><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR>
-		<TD COLSPAN=4 WIDTH=639 VALIGN=TOP>
-			<P STYLE="margin-top: 0.88cm; border-top: none; border-bottom: 1px solid #d8d8d8; border-left: none; border-right: none; padding: 0cm">
-			<FONT COLOR="#aeaeae"><FONT SIZE=2 STYLE="font-size: 11pt">Ключевые
-			навыки</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD COLSPAN=2 WIDTH=116>
-			<P><FONT COLOR="#707070"><FONT SIZE=1 STYLE="font-size: 8pt">Знание
-			языков</FONT></FONT></P>
-		</TD>
-		<TD COLSPAN=2 WIDTH=519>
-			<P STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 9pt">Русский
-			<FONT COLOR="#aeaeae">&mdash; Родной</FONT></FONT></P>
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">Английский <FONT COLOR="#aeaeae">&mdash;
-			B1 &mdash; Средний</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD COLSPAN=2 WIDTH=116>
-			<P STYLE="margin-top: 0.44cm"><FONT COLOR="#707070"><FONT SIZE=1 STYLE="font-size: 8pt">Навыки</FONT></FONT></P>
-		</TD>
-		<TD COLSPAN=2 WIDTH=519>
-			<P STYLE="margin-top: 0.44cm"><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN STYLE="background: #e6e6e6">Ответственность</SPAN>
-			 <SPAN STYLE="background: #e6e6e6">Целеустремленность</SPAN> 
-			<SPAN STYLE="background: #e6e6e6">Ориентация&nbsp;на&nbsp;результат</SPAN>
-			 <SPAN STYLE="background: #e6e6e6">Adobe&nbsp;Photoshop</SPAN> 
-			<SPAN STYLE="background: #e6e6e6">Обучение&nbsp;и&nbsp;развитие</SPAN>
-			 <SPAN STYLE="background: #e6e6e6">CorelDRAW</SPAN> 
-			<SPAN STYLE="background: #e6e6e6">Деловое&nbsp;общение</SPAN> 
-			<SPAN STYLE="background: #e6e6e6">Работа&nbsp;с&nbsp;большим&nbsp;объемом&nbsp;информации</SPAN>
-			 <SPAN STYLE="background: #e6e6e6">Управление&nbsp;проектами</SPAN>
-			 <SPAN STYLE="background: #e6e6e6">Деловая&nbsp;коммуникация</SPAN>
-			 <SPAN STYLE="background: #e6e6e6">Умение&nbsp;работать&nbsp;в&nbsp;команде</SPAN>
-			 <SPAN STYLE="background: #e6e6e6">Заключение&nbsp;договоров</SPAN>
-			 <SPAN STYLE="background: #e6e6e6">Навыки&nbsp;продаж</SPAN> 
-			<SPAN STYLE="background: #e6e6e6">Грамотность</SPAN> 
-			<SPAN STYLE="background: #e6e6e6">Организаторские&nbsp;навыки</SPAN>
-			 <SPAN STYLE="background: #e6e6e6">Деловая&nbsp;переписка</SPAN> 
-			<SPAN STYLE="background: #e6e6e6">Обучение&nbsp;персонала</SPAN> 
-			<SPAN STYLE="background: #e6e6e6">Cоциальная&nbsp;реклама</SPAN> 
-			<SPAN STYLE="background: #e6e6e6">Интернет-реклама</SPAN> 
-			<SPAN STYLE="background: #e6e6e6">Контекстная&nbsp;реклама</SPAN> 
-			<SPAN STYLE="background: #e6e6e6">Партнерские&nbsp;программы&nbsp;в&nbsp;социальных&nbsp;сетях</SPAN>
-			 <SPAN STYLE="background: #e6e6e6">Партнерский&nbsp;маркетинг</SPAN>
-			 <SPAN STYLE="background: #e6e6e6">B2B&nbsp;маркетинг</SPAN> 
-			<SPAN STYLE="background: #e6e6e6">Internet&nbsp;Marketing</SPAN> 
-			<SPAN STYLE="background: #e6e6e6">CorelDRAW&nbsp;Graphics&nbsp;Suite</SPAN>
-			 <SPAN STYLE="background: #e6e6e6">Поиск&nbsp;и&nbsp;привлечение&nbsp;клиентов</SPAN>
-			 <SPAN STYLE="background: #e6e6e6">CMS&nbsp;Wordpress</SPAN> 
-			<SPAN STYLE="background: #e6e6e6">Woocommerce</SPAN></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD COLSPAN=4 WIDTH=639 VALIGN=TOP>
-			<P STYLE="margin-top: 0.88cm; border-top: none; border-bottom: 1px solid #d8d8d8; border-left: none; border-right: none; padding: 0cm">
-			<FONT COLOR="#aeaeae"><FONT SIZE=2 STYLE="font-size: 11pt">Опыт
-			вождения</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD COLSPAN=4 WIDTH=639 VALIGN=TOP>
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">Права категории A, B</FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD COLSPAN=4 WIDTH=639 VALIGN=TOP>
-			<P STYLE="margin-top: 0.88cm; border-top: none; border-bottom: 1px solid #d8d8d8; border-left: none; border-right: none; padding: 0cm">
-			<FONT COLOR="#aeaeae"><FONT SIZE=2 STYLE="font-size: 11pt">Дополнительная
-			информация</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD COLSPAN=2 WIDTH=116>
-			<P><FONT COLOR="#707070"><FONT SIZE=1 STYLE="font-size: 8pt">Обо
-			мне</FONT></FONT></P>
-		</TD>
-		<TD COLSPAN=2 WIDTH=519>
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">Портфолио:<BR>https://successturan.com
-			Personal Travel Blog<BR>https://nomad-stan.com Capsule Hostel
-			Website<BR>https://solo-express.ru - Интернет магазин
-			посуды<BR>https://цифра18.рф - Интернет магазин (каталог)
-			типографии<BR>https://ppsiz.ru Портал по обзорам старых и новых
-			мест города Ижевск<BR>https://tourexpert.club - Сайт
-			турагентства<BR>https://sol18.ru - Сайт
-			Туроператора<BR>https://yourguitar.ru - Интернет магазин
-			производителя гитар<BR>https://сухо-фрукт.рф - Сайт-визитка и
-			интернет магазин сухофруктов<BR>https://musor18.ru - Сайт-визитка
-			услуг вывоза мусора<BR>https://переезд18.рф - Сайт-визитка услуг
-			грузоперевозок<BR>https://психолог-сентякова.рф - Сайт-визитка и
-			интернет магазин услуг<BR>https://travel.r00m.ru - Поисковик
-			авиабилетов и отелей (Партнерский CPA White label
-			TPO)<BR>https://domain.r00m.ru - Каталог (магазин) доменов<BR><BR>И
-			так далее.</FONT></P>
-		</TD>
-	</TR>
-</TABLE>
-<P STYLE="margin-bottom: 0cm"><BR>
-</P>
-<DIV TYPE=FOOTER>
-	<P STYLE="margin-top: 0.63cm; margin-bottom: 0cm"><FONT COLOR="#bcbcbc"><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt">Резюме
-	обновлено 22 ноября 2023 в 15:57</FONT></FONT></FONT></P>
-</DIV>
-</BODY>
-</HTML>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Услуги по разработке сайтов на WordPress</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1, h2, h3 {
+      font-weight: bold;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 1em;
+    }
+
+    h2 {
+      font-size: 2em;
+      margin-bottom: 0.5em;
+    }
+
+    h3 {
+      font-size: 1.5em;
+      margin-bottom: 0.5em;
+    }
+
+    ul {
+      margin-bottom: 1em;
+    }
+
+    li {
+      margin-bottom: 0.5em;
+    }
+
+    .section {
+      margin-bottom: 2em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Услуги по разработке сайтов на WordPress</h1>
+
+  <p>За 10 лет создано более 100 сайтов на CMS Wordpress.</p>
+  <p>В приоритете почасовая оплата за услуги в зависимости от задач.</p>
+
+  <section class="section">
+    <h2>Основные услуги:</h2>
+    <ul>
+      <li>Агрегаторы, каталоги, листинги</li>
+      <li>Интернет магазины</li>
+      <li>AI автоперевод контента и метаданных на другие языки</li>
+      <li>Автопостинг контента в любые социальные сети и мессенджеры</li>
+      <li>Партнерские магазины, витрины, агрегаторы купонов и промокодов</li>
+      <li>Размещение товаров и услуг в социальных сетях, маркетплейсах</li>
+      <li>Работа с прайсами, выгрузками данных в таблицах Google Sheets</li>
+      <li>Поддержка и развитие существующих проектов</li>
+      <li>Массовая, до 10000 и больше 100% уникальная генерация статей, контента в социальные сети, карточек товаров и так далее с учетом подробной информации об товаре, услуге, бренде с анкорной перелинковкой по заданным критериям, длина текстов от 100 до 30000 символов и выше. Стоимость от 0.1$ за 1000 символов</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>SEO:</h2>
+    <ul>
+      <li>Сбор и кластеризация семантического ядра</li>
+      <li>Внутренняя оптимизация</li>
+      <li>Внутренняя и сквозная перелинковка</li>
+      <li>Написание метатегов title, description, headings, alt</li>
+      <li>Уникализация изображений, копирайтинг/рерайтинг текстов</li>
+      <li>Настройка Lazy load видео и изображений</li>
+      <li>Регистрация и настройка yandex webmaster, google search console, отправка страниц на переобход</li>
+      <li>Настройка indexAPI Yandex, Google, Bing</li>
+      <li>Установка и настройка yandex metrika, google analytics</li>
+      <li>Создание xml, html карты сайта</li>
+      <li>Настройка robots.txt</li>
+      <li>Микроразметка Schema.org, Opengraph</li>
+      <li>PageSpeed и Core Web Vitals</li>
+      <li>Структурированные данные</li>
+      <li>Линкбилдинг</li>
+      <li>Оптимизация изображений</li>
+      <li>SEO оптимизация сайтов на CMS 1с Битрикс</li>
+      <li>Добавление мультиязычности</li>
+      <li>Статейное и ссылочное продвижение</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>Разработка и интеграция ИИ сервисов:</h2>
+    <ul>
+      <li>Интеграция API OpenAI, Gemini, Claude, Mistral, Grok на любой сайт, боты телеграм, мессенджеры, социальные сети.</li>
+      <li>Разработка ИИ ассистентов и агентов с контекстными prompts (подсказками) а также с любой загруженной информацией до 1 млн токенов.</li>
+      <li>Fine Tuning и обучение на ваших данных для создания контента, агентов и ассистентов - любые датасеты, контент сайтов, интернет магазинов, маркетплейсов, анализ отзывов, контент из социальных сетей, история сообщений в мессенджерах, различная внутренняя документация и т.д.</li>
+      <li>Интеграция генератора изображений DALL-E, Stable Diffusion, Flux и так далее на сайты, в социальные сети, боты в телеграм и т.д.</li>
+      <li>AI SEO нейрокопирайтинг, рерайтинг, перевод на любой язык, создание грамотных prompts (подсказки) для автоматического создания уникального контента - постов, статей, описаний товаров с автоматической выгрузкой на сайты, яндекс дзен, маркетплейсы, интернет магазины, социальные сети и тд. Форматы экспорта: ссылки или статические файлы: RSS, XML, YML, CSV и т.д.</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>Импорт и экспорт контента:</h2>
+    <ul>
+      <li>Массовая загрузка и выгрузка любого контента в Wordpress или любую CMS - статей, карточек товаров, услуг, недвижимость, автомобили и т.д. в том числе уникальные, автоматически генерируемые тексты нейросетями с последующей вычиткой и редактированием.</li>
+      <li>Выгрузки в: (Wildberris, Ozon, Яндекс.Маркет, Сбермегамаркет, Aliexpress, Amazon, eBay, Etsy, Alibaba, Rakuten и т.д.)</li>
+      <li>Яндекс.Бизнес: товары/услуги</li>
+      <li>Яндекс: Турбо-страницы, товары</li>
+      <li>Яндекс Вебмастер: товары</li>
+      <li>Google Merchant Center: товары</li>
+      <li>Facebook Commerce manager: товары</li>
+      <li>Instagram shopping: товары</li>
+      <li>Телеграм: бот-каталог услуг и товаров, магазин</li>
+      <li>Вконтакте: товары/услуги</li>
+      <li>Одноклассники: товары/услуги</li>
+      <li>Юла: товары/услуги</li>
+      <li>Авито: товары/услуги</li>
+      <li>Viber: товары/услуги</li>
+      <li>Агрегаторы: товары/услуги (Pulscen, Price.ru, Blizko, Cataloxy.ru, и тд)</li>
+      <li>Размещение товаров на бирже импортозамещения etpgpb.ru b и других</li>
+      <li>Интернет магазины, конструкторы сайтов (OpenCart, PrestaShop, Shopify, Webasyst, Tilda, Wix, Insales, Advantshop, и т.д.)</li>
+      <li>2Gis: товары/услуги</li>
+      <li>Скрапинг, парсинг: товаров, категорий, таблиц, листингов, прайс листов, каталогов. Конвертация из/в Excel, CSV, XML, YML, JSON</li>
+      <li>Выгрузка товаров с сайтов поставщиков (маркетплейсы, интернет магазины, опт, мелкий опт, дропшиппинг, совместные покупки и т.д.)</li>
+      <li>Выгрузки постов и автоматическое обновление из социальных сетей. Дублирование контента ваших личных групп, каналов, страниц на собственный сайт, блог. Полезно при блокировке аккаунтов, в целях резервного сохранения контента и допонительного трафика из поисковых систем.</li>
+      <li>Экспорт товаров, статей в PDF, MS Word, Excell с последующим формированием каталогов, прайс листов для печати и оффлайн чтения с активными ссылками или обучения AI ассистентов, агентов, ботов.</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>Безопасность:</h2>
+    <ul>
+      <li>Настройка Firewall</li>
+      <li>Защита от подбора пароля и DDoS</li>
+      <li>Защита от вирусов и контроль изменения ядра</li>
+      <li>Резервное облачное копирование и восстановление сайта</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>Настройка рекламы:</h2>
+    <ul>
+      <li>Контекстная реклама (Yandex, Mail, Google, Bing)</li>
+      <li>Реклама в социальных сетях</li>
+      <li>E-mail рассылки</li>
+      <li>SMS рассылки</li>
+      <li>Таргетинг</li>
+      <li>Ретаргетинг</li>
+      <li>Медийная реклама</li>
+      <li>Продвижение и рассылки в мессенджерах</li>
+      <li>Реклама в Телеграм</li>
+      <li>Автопостинг по расписанию новостей, товаров в социальные сети (Более 20)</li>
+      <li>Партнерские программы, размещение офферов в партнерских сетях.</li>
+      <li>Арбитраж трафика, продвижение через affiliate маркетинг</li>
+      <li>Разработка собственной реферальной программы на WordPress (AffiliateWP, Woocommerce etc)</li>
+    </ul>
+  </section>
+
+  <p>В данный момент являюсь самозанятым.</p>
+  <p>Прошу по всем вопросам писать в Telegram: @notview</p>
+</body>
+</html>
