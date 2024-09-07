@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Услуги по разработке сайтов на WordPress</title>
+  <title>Refertur: Разработка сайтов на WordPress в Алматы | SEO, ИИ, Импорт/Экспорт контента</title>
+  <meta name="description" content="Refertur - опытный разработчик сайтов на WordPress с 10-летним стажем. Предлагаем комплексные услуги: SEO-оптимизация, интеграция ИИ, импорт/экспорт контента, разработка AI-ассистентов.">
   <style>
     body {
       font-family: sans-serif;
